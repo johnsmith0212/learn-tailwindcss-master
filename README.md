@@ -1,1 +1,3 @@
-# learn-tailwindcss-master
+# learn-tailwindcss
+
+Some demo code for tailwindcss learning
